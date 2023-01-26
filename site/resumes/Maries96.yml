@@ -1,0 +1,41 @@
+template: "online-cv"
+skin: "green"
+
+basic_info:
+
+   #profile Information
+   name: Marie Stewart
+   tagline: Things don't happen to you, they happen for you~
+   avatar: #coming soon#
+
+   #sidebar links
+   email: Marievstewart@gmail.com
+   phone: (786)797-5996
+   linkedin: MarieS96
+
+   github: Maries96
+
+   languages:
+      - idiom: English
+        level: Native
+
+      - idiom: Spanish
+        level: Bilingual
+
+   interests:
+      - item: Having a dog
+
+      - item: Kickboxing
+education:
+    - degree: Associates in Arts
+      university: Miami Dade College 
+      time: 2016-2018
+      
+    - degree: Bachelor in Arts/Liberal Studies
+      university: Florida International University
+      time: 2018-2021
+
+experiences:
+    - role: Library Assistant III
+      time: 2021 - Present
+      company: Miami Dade Public Libraries
